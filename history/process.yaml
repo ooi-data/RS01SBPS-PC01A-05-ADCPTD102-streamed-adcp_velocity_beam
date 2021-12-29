@@ -1,0 +1,6 @@
+data_location: s3://ooi-data/RS01SBPS-PC01A-05-ADCPTD102-streamed-adcp_velocity_beam
+data_stream: RS01SBPS-PC01A-05-ADCPTD102-streamed-adcp_velocity_beam
+end_date: '2021-12-28T23:18:18.251Z'
+last_updated: '2021-12-29T14:46:10.877323Z'
+start_date: '2014-10-02T14:45:31.140Z'
+status: pending
